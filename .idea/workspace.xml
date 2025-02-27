@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="372607ad-d103-44d6-b418-68680d798ef9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2sL0SMVA5iiytAIRe3ikv1Me9ad" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbundantNumberCalculator.executor": "Run",
+    "Application.AddTwoNumbers.executor": "Run",
+    "Application.AgeOfHarry.executor": "Run",
+    "Application.AreaCicle.executor": "Run",
+    "Application.AreaOfTriangle.executor": "Run",
+    "Application.AverageThreeNumber.executor": "Run",
+    "Application.BMI_Calculator.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BasiCal.executor": "Run",
+    "Application.BasiCalculator.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.CalculatorUsingSwitchCase.executor": "Run",
+    "Application.CelsiusToFahrenheit.executor": "Run",
+    "Application.CheckArmstrongNumber.executor": "Run",
+    "Application.CheckNumber.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.ConvertHeight.executor": "Run",
+    "Application.CountDown.executor": "Run",
+    "Application.DayOfWeekCalculator.executor": "Run",
+    "Application.DigitCounter.executor": "Run",
+    "Application.DiscountedFee.executor": "Run",
+    "Application.DiscountedFeeCalculator.executor": "Run",
+    "Application.DistanceFeetToYardsMiles.executor": "Run",
+    "Application.DistanceKiloMeterstoMiles.executor": "Run",
+    "Application.DividePens.executor": "Run",
+    "Application.DivisibleBy5.executor": "Run",
+    "Application.DoubleOperation.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeBonusCalculator.executor": "Run",
+    "Application.EnterZeroToExit1.executor": "Run",
+    "Application.EnterZeroToStop.executor": "Run",
+    "Application.FactorOfNumber.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
+    "Application.FactorialOfNumberUsingWhileLoop.executor": "Run",
+    "Application.FactorialUsingForLoop.executor": "Run",
+    "Application.FactorialUsingWhileLoop.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.FizzBuzzUsingWhileLoop.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.HandShakeCal.executor": "Run",
+    "Application.HarshadNumberDefiner.executor": "Run",
+    "Application.IntOperation.executor": "Run",
+    "Application.Item.executor": "Run",
+    "Application.KMtoMiles.executor": "Run",
+    "Application.KmtoMiles.executor": "Run",
+    "Application.LargestOfThree.executor": "Run",
+    "Application.LeapYearCalculationUsingIfElse.executor": "Run",
+    "Application.LeapYearCalculationUsingSigleIf.executor": "Run",
+    "Application.MobilePhone.executor": "Run",
+    "Application.MovieTicket.executor": "Run",
+    "Application.MultipleOfNumberCalculator.executor": "Run",
+    "Application.MultiplicationTableCalculation.executor": "Run",
+    "Application.NaturalNumSum.executor": "Run",
+    "Application.NaturalNumberSumForLoop.executor": "Run",
+    "Application.OddEvenNumbers.executor": "Run",
+    "Application.PCMPercentageCalculator.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.PerimeterReacangle.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PowerOfNumber.executor": "Run",
+    "Application.PrimeNumberChecker.executor": "Run",
+    "Application.ProfitLoss.executor": "Run",
+    "Application.ProfitLossCalculator.executor": "Run",
+    "Application.QuotientRemainderCalculator.executor": "Run",
+    "Application.ShoppingCartApp.executor": "Run",
+    "Application.SideFromPerimeter.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.SmallestOfThree.executor": "Run",
+    "Application.SpringSeasons.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.SumOfNaturalnumber.executor": "Run",
+    "Application.SwapTwoElements.executor": "Run",
+    "Application.TempCelciumToFarenheit.executor": "Run",
+    "Application.TempFarenheitToCelcius.executor": "Run",
+    "Application.TotalIncomeCalculator.executor": "Run",
+    "Application.TotalPriceOfItems.executor": "Run",
+    "Application.VolumeOfCylinder.executor": "Run",
+    "Application.VolumeOfEarth.executor": "Run",
+    "Application.VoteEgli.executor": "Run",
+    "Application.YoungestAndTallestPerson.executor": "Run",
+    "Application.age.executor": "Run",
+    "Application.gratestFactor.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shiv/java_workspace/Chennai_BL/CodeLogic"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SwapTwoElements">
+    <configuration name="DoubleOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.elements.leveltwo.DoubleOperation" />
+      <module name="BridgeLabzAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.elements.leveltwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapTwoElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.elements.leveltwo.SwapTwoElements" />
+      <module name="BridgeLabzAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.elements.leveltwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempCelciumToFarenheit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.elements.leveltwo.TempCelciumToFarenheit" />
+      <module name="BridgeLabzAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.elements.leveltwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempFarenheitToCelcius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.elements.leveltwo.TempFarenheitToCelcius" />
+      <module name="BridgeLabzAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.elements.leveltwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalIncomeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.elements.leveltwo.TotalIncomeCalculator" />
+      <module name="BridgeLabzAssignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.elements.leveltwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwapTwoElements" />
+        <item itemvalue="Application.TotalIncomeCalculator" />
+        <item itemvalue="Application.TempFarenheitToCelcius" />
+        <item itemvalue="Application.TempCelciumToFarenheit" />
+        <item itemvalue="Application.DoubleOperation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372607ad-d103-44d6-b418-68680d798ef9" name="Changes" comment="" />
+      <created>1738219549593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738219549593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/org/level2/MovieTicket.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/levetwo/SmallestOfThree.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/levetwo/EnterZeroToExit1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/controlflow/leveltwo/PrimeNumberChecker.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/controlflow/leveltwo/MultipleOfNumberCalculator.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/controlflow/levelthree/DigitCounter.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/elements/levelone/DistanceFeetToYardsMiles.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/elements/leveltwo/DoubleOperation.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/basic/KmtoMiles.java</url>
+          <line>4</line>
+          <properties class="com.bridgelabz.basic.KmtoMiles" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/elements/levelone/DividePens.java</url>
+          <line>3</line>
+          <properties class="com.bridgelabz.elements.levelone.DividePens" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/controlflow/levelthree/HarshadNumberDefiner.java</url>
+          <line>3</line>
+          <properties class="com.bridgelabz.controlflow.levelthree.HarshadNumberDefiner" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/elements/leveltwo/TempCelciumToFarenheit.java</url>
+          <line>3</line>
+          <properties class="com.bridgelabz.elements.leveltwo.TempCelciumToFarenheit" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
